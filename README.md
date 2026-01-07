@@ -87,9 +87,8 @@ Pastikan koneksi internet Anda stabil
 
 ## 👤 Author
 
-Faris Suka Mie Ayam (RIZZKUNNN)
-
-GitHub: https://github.com/RIZZKUNNN
+- Faris Suka Mie Ayam (RIZZKUNNN)
+- GitHub: https://github.com/RIZZKUNNN
 
 ⭐ If you find this project useful, don’t forget to star the repository!
 
