@@ -1,10 +1,10 @@
-# 🎬 YTDL Termux Pro UI
+# 🎬 Video Downloader Termux
 
 ![Banner](Assets/banner.jpg)
 
 # 🇮🇩 Deskripsi
 
-**YTDL Termux Pro UI** adalah script downloader video & audio berbasis **yt-dlp**  
+**Video Downloader Termux** adalah script downloader video & audio berbasis **yt-dlp**  
 yang dirancang khusus untuk **Termux**, dengan tampilan UI sederhana namun informatif  
 menggunakan **spinner real-time**.
 
@@ -15,7 +15,7 @@ downloader **cepat, ringan, dan stabil**.
 
 ## 🇬🇧 Description
 
-**YTDL Termux Pro UI** is a video & audio downloader script based on **yt-dlp**,  
+**Video Downloader Termux** is a video & audio downloader script based on **yt-dlp**,  
 specially designed for **Termux**, featuring a simple yet informative UI  
 with **real-time spinner**.
 
