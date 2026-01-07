@@ -56,3 +56,41 @@ termux-setup-storage
 cd ytdl-termux-pro
 chmod +x ytdl.sh
 cp ytdl.sh $PREFIX/bin/ytdl
+```
+---
+
+## ▶️ Usage
+
+```bash
+ytdl
+```
+Follow the menu displayed on screen.
+
+---
+
+## 📁 Download Location
+
+```bash
+/storage/emulated/0/Download/YTDL-Termux/
+```
+
+##🛠 Technologies Used
+
+---
+
+Bash Script
+yt-dlp
+ffmpeg
+Termux API
+
+## ⚠️ Notes
+
+Use this tool for personal purposes only
+Respect copyright & platform policies
+Make sure your internet connection is stable
+
+## 👤 Author
+Faris (RIZZKUNNN)
+GitHub: https://github.com/RIZZKUNNN
+⭐ If you find this project useful, don’t forget to star the repository!
+
