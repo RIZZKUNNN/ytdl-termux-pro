@@ -89,7 +89,7 @@ Pastikan koneksi internet Anda stabil
 
 ## 👤 Author
 
-Faris (RIZZKUNNN)
+Faris Suka Mie Ayam (RIZZKUNNN)
 
 GitHub: https://github.com/RIZZKUNNN
 
