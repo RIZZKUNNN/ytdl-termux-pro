@@ -33,6 +33,7 @@ Perfect for **low-end devices** and **advanced users** who need a
   - YouTube
   - TikTok
   - Facebook
+  - Instagram
 - 📺 Default 720p resolution (automatic fallback)
 - 🔊 Audio fix & MP3 conversion (ffmpeg)
 - 📂 Output directly to Internal Storage
