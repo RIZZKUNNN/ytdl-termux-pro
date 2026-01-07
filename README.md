@@ -1,7 +1,6 @@
 # 🎬 YTDL Termux Pro UI
-## 📸 Preview
 
-![YTDL Termux Pro UI](Assets/banner.jpg)
+![Banner](Assets/banner.jpg)
 
 ---
 # 🇮🇩 Deskripsi
