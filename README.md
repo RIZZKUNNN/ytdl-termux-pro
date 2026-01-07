@@ -74,9 +74,7 @@ Follow the menu displayed on screen.
 /storage/emulated/0/Download/YTDL-Termux/
 ```
 
-##🛠 Technologies Used
-
----
+## 🛠 Technologies Used
 
 Bash Script
 yt-dlp
