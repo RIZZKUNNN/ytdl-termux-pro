@@ -1,10 +1,10 @@
-# 🎬 Video Downloader Termux
+# 🎬 Ytdl Termux
 
 ![Banner](Assets/banner.jpg)
 
 # 🇮🇩 Deskripsi
 
-**Video Downloader Termux** adalah script downloader video & audio berbasis **yt-dlp**  
+**Ytdl Termux** adalah script downloader video & audio berbasis **yt-dlp**  
 yang dirancang khusus untuk **Termux**, dengan tampilan UI sederhana namun informatif  
 menggunakan **spinner real-time**.
 
@@ -14,7 +14,7 @@ downloader **cepat, ringan, dan stabil**.
 
 ## 🇬🇧 Description
 
-**Video Downloader Termux** is a video & audio downloader script based on **yt-dlp**,  
+**Ytdl Termux** is a video & audio downloader script based on **yt-dlp**,  
 specially designed for **Termux**, featuring a simple yet informative UI  
 with **real-time spinner**.
 
