@@ -64,30 +64,31 @@ cp ytdl.sh $PREFIX/bin/ytdl
 ```bash
 ytdl
 ```
-Follow the menu displayed on screen.
+Ikuti menu yang ditampilkan di layar.
 
 ---
 
-## 📁 Download Location
+## 📁 Lokasi Download
 
 ```bash
 /storage/emulated/0/Download/YTDL-Termux/
 ```
 
-## 🛠 Technologies Used
+## 🛠 Teknologi Yang Saya Pakaai
 
-Bash Script
-yt-dlp
-ffmpeg
-Termux API
+- Bash Script
+- yt-dlp
+- ffmpeg
+- Termux API
 
 ## ⚠️ Notes
 
-Use this tool for personal purposes only
-Respect copyright & platform policies
-Make sure your internet connection is stable
+Gunakan tools ini hanya untuk keperluan pribadi
+Hormati hak cipta & kebijakan platform
+Pastikan koneksi internet Anda stabil
 
 ## 👤 Author
+
 Faris (RIZZKUNNN)
 GitHub: https://github.com/RIZZKUNNN
 ⭐ If you find this project useful, don’t forget to star the repository!
