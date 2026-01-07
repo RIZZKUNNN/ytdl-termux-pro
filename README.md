@@ -90,6 +90,8 @@ Pastikan koneksi internet Anda stabil
 ## 👤 Author
 
 Faris (RIZZKUNNN)
+
 GitHub: https://github.com/RIZZKUNNN
+
 ⭐ If you find this project useful, don’t forget to star the repository!
 
