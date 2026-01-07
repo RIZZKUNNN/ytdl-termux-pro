@@ -11,7 +11,6 @@ menggunakan **spinner real-time**.
 Cocok untuk pengguna **HP kentang** maupun **advanced user** yang menginginkan  
 downloader **cepat, ringan, dan stabil**.
 
----
 
 ## 🇬🇧 Description
 
@@ -22,7 +21,6 @@ with **real-time spinner**.
 Perfect for **low-end devices** and **advanced users** who need a  
 **fast, lightweight, and stable downloader**.
 
----
 
 ## ✨ Features
 
