@@ -42,10 +42,10 @@ spinner() {
 
 # ========== HEADER ==========
 clear
-echo -e "${BLUE}╔════════════════════════════╗"
-echo -e "║     YTDL TERMUX PRO UI     ║"
-echo -e "║   Spinner • Audio FIX     ║"
-echo -e "╚════════════════════════════╝${RESET}"
+echo -e "${BLUE}╔══════════════════════════════╗"
+echo -e "║      YTDL TERMUX PRO UI      ║"
+echo -e "║   By : Faris Suka Mie Ayam   ║"
+echo -e "╚══════════════════════════════╝${RESET}"
 
 # ========== INPUT URL ==========
 echo -e "${YELLOW}Paste URL video:${RESET}"
