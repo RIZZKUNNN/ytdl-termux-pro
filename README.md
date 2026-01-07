@@ -1,7 +1,11 @@
 # 🎬 YTDL Termux Pro UI
 ## 📸 Preview
 
-![YTDL Termux Pro UI](assets/banner.png)
+## 📸 Preview
+
+![Preview](https://raw.githubusercontent.com/RIZZKUNNN/ytdl-termux-pro/main/assets/preview.png)
+
+---
 
 ---
 # 🇮🇩 Deskripsi
