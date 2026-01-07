@@ -69,10 +69,10 @@ Ikuti menu yang ditampilkan di layar.
 ## 📁 Lokasi Download
 
 ```bash
-/storage/emulated/0/Download/YTDL-Termux/
+/storage/emulated/0/DownloaderVideo
 ```
 
-## 🛠 Teknologi Yang Saya Pakaai
+## 🛠 Teknologi Yang Saya Pakai
 
 - Bash Script
 - yt-dlp
