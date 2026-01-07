@@ -14,7 +14,7 @@ Downloader video & audio untuk Termux dengan UI spinner.
 ```bash
 pkg install -y python ffmpeg git
 pip install -U yt-dlp
-git clone https://github.com/USERNAME/ytdl-termux-pro.git
+git clone https://github.com/RIZZKUNNN/ytdl-termux-pro.git
 termux-setup-storage
 cd ytdl-termux-pro
 chmod +x ytdl.sh
