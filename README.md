@@ -44,8 +44,6 @@ Perfect for **low-end devices** and **advanced users** who need a
 - Storage permission enabled
 - Stable internet connection
 
----
-
 ## 🚀 Installation
 
 ```bash
