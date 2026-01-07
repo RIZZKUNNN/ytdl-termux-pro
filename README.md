@@ -2,7 +2,6 @@
 
 ![Banner](Assets/banner.jpg)
 
----
 # 🇮🇩 Deskripsi
 
 **YTDL Termux Pro UI** adalah script downloader video & audio berbasis **yt-dlp**  
