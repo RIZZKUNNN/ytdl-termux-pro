@@ -37,8 +37,6 @@ Perfect for **low-end devices** and **advanced users** who need a
 - 📂 Output directly to Internal Storage
 - ⚡ Lightweight, fast, and user-friendly
 
----
-
 ## 📦 Requirements
 
 - Latest **Termux**
@@ -64,8 +62,6 @@ cp ytdl.sh $PREFIX/bin/ytdl
 ytdl
 ```
 Ikuti menu yang ditampilkan di layar.
-
----
 
 ## 📁 Lokasi Download
 
